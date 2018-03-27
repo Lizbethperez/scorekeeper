@@ -10,14 +10,15 @@ Escribe una función que toma dos argumentos, el nombre de tu amiga y la cantida
 ### Descripción:
  Me sirve para detallar a grandes razgos el procedimiento que se va a realizar.
 
-1. Definir el Objeto SCORES en el cual se almacenara toda la data.
+1. Definir el Objeto *SCORES* en el cual se almacenara toda la data.
 
 2. Crear los elementos JUGADORES que se alamacenaran como *keys* en el objeto SCORES.
 
 3. Agregar el puntaje de cada jugador.
 
-4. Imprimir toda la data que se encuentra almacenada en el objeto *SCORE*
-
+4. Imprimir toda la data que se encuentra almacenada en el objeto *SCORES*
 
 
 ## Diagrama de Flujo
+### Es la Representación grafica del Pseudocodigo.
+![Diagrama de flujo del problema SCOREKEEPER](assets/img/object-scorekeeper.png)
